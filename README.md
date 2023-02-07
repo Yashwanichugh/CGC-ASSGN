@@ -1,3 +1,3 @@
 # CGC ASSGN
 
-Link : https://cgc-assgn.netlify.app/
+Link : https://cgcassgn.netlify.app/
